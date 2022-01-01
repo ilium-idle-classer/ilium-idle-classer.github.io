@@ -1,20 +1,20 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Ilium Idle Classer",
+  "name": "Ilium Idle Classer",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "ilium-iddle-classer-icon",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/svg"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "ilium-idle-classer-icon.svg",
+      "type": "image/svg",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "ilium-idle-classer-icon.svg",
+      "type": "image/svg",
       "sizes": "512x512"
     }
   ],
